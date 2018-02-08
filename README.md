@@ -22,7 +22,7 @@ Save results to ./outfile.bib
 
 Conversion to other formats for use with reference managers (e.g. Endnote) can be achivied by using bibutils:
 ```
-cat outfile.bib | bib2xml | bib2end > outfile.enw
+cat outfile.bib | bib2xml | xml2end > outfile.enw
 ```
 
 ## License
