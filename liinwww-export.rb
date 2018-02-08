@@ -95,8 +95,6 @@ class CSBExport
 end
 
 
-
-
 if ARGV.empty?
   STDERR.puts "Error: No arguments specified"
   exit
